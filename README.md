@@ -1,7 +1,7 @@
 # Olá, me chamo Guilherme e seja bem-vindo ao meu perfil! 👋
 
-- 📚 Estudante de Análise e Desenvolvimento de Sistemas na Uninter, com uma paixão inabalável pela tecnologia.
-- 👨‍💻 Jovem Aprendiz Tech na Vivo, na área de arquitetura de soluções e integração de sistemas.
+- 📚 Estudante de Análise e Desenvolvimento de Sistemas na UniNove, com uma paixão inabalável pela tecnologia.
+- 👨‍💻 Jovem Aprendiz Tech na Disal Conscorcio, na área de infra estrutura.
 - ⚽ Apaixonado por jogos e esportes.
 
 ## Conecte-se comigo
